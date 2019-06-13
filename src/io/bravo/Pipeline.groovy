@@ -1,4 +1,4 @@
-config#!/usr/bin/groovy
+#!/usr/bin/groovy
 package io.bravo;
 
 def kubectlTest() {
