@@ -1,2 +1,2 @@
 # pipeline_libs
-pipeline libraries  Reusable files
+Pipeline libraries & Reusable files
